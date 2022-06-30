@@ -1,31 +1,79 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: QRjet # Your GitHub organization or username, where this repository lives
+repo: monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    
+  - name: "[ Web - QA ] Consumer Web App"
+    url: https://consumer.qa.truetale.io/
+    
+  - name: "[ Web - QA ] Admin Web App"
+    url: https://admin.qa.truetale.io/
+    
+  - name: "[ Web - QA ] Partner Web App"
+    url: https://partner.qa.truetale.io/
+    
+  - name: "[ Web - QA ] Brands Web App"
+    url: https://business.qa.truetale.io/
+    
+  - name: "[ Service - QA ] Billing Service"
+    url: https://api.qa.truetale.io/api/billing/health-check
+    
+  - name: "[ Service - QA ] Consumer Service"
+    url: https://api.qa.truetale.io/api/consumer/health-check
+    
+  - name: "[ Service - QA ] Emails Service"
+    url: https://api.qa.truetale.io/api/emails/health-check
+    
+  - name: "[ Service - QA ] Gateway Service"
+    url: https://api.qa.truetale.io/graphql/health-check
+    
+  - name: "[ Service - QA ] Media Service"
+    url: https://api.qa.truetale.io/api/media/health-check
+    
+  - name: "[ Service - QA ] Orders Service"
+    url: https://api.qa.truetale.io/api/orders/health-check
+    
+  - name: "[ Service - QA ] orgAccounts Service"
+    url: https://api.qa.truetale.io/api/org-accounts/health-check
+    
+  - name: "[ Service - QA ] Pim Service"
+    url: https://api.qa.truetale.io/api/pim/health-check
+    
+  - name: "[ Service - QA ] Qr Codes Service"
+    url: https://api.qa.truetale.io/api/qr-codes/health-check
+    
+  - name: "[ Service - QA ] Reseller Service"
+    url: https://api.qa.truetale.io/api/reseller/health-check
+    
+  - name: "[ Service - QA ] Shopify Listener Service"
+    url: https://api.qa.truetale.io/api/shopify-adapter-event-listener/health-check
+    
+  - name: "[ Service - QA ] Shopify Sync"
+    url: https://api.qa.truetale.io/api/shopify-adapter-sync/health-check
+    
+  - name: "[ Service - QA ] Tags"
+    url: https://api.qa.truetale.io/api/tags/health-check
+    
+  - name: "[ Service - QA ] Templates"
+    url: https://api.qa.truetale.io/api/templates/health-check
+    
+  - name: "[ Service - QA ] Widgets"
+    url: https://api.qa.truetale.io/api/widgets/health-check
+    
+  - name: "[ Service - QA ] Admin"
+    url: https://api.qa.truetale.io/api/admin/health-check
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+#   cname: demo.upptime.js.org
+  baseUrl: /monitor
+#   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Truetale Web Apps And Services Monitor QA Environment
+  introTitle: "**Truetale Monitor** monitor web apps and services."
+  introMessage: A page that shows different web apps and services status based on **real-time** data
+#   navbar:
+#     - title: Status
+#       href: /
+#     - title: GitHub
+#       href: https://github.com/$OWNER/$REPO
