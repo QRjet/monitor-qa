@@ -1,7 +1,7 @@
 url: https://api.qa.truetale.io/api/pim/health-check
 status: up
 code: 200
-responseTime: 146
-lastUpdated: 2022-07-02T06:20:41.686Z
+responseTime: 166
+lastUpdated: 2022-07-02T06:43:13.252Z
 startTime: Sat Jul 02 2022 06:19:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
