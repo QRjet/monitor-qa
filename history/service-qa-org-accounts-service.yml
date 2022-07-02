@@ -1,7 +1,7 @@
 url: https://api.qa.truetale.io/api/org-accounts/health-check
 status: up
 code: 200
-responseTime: 168
-lastUpdated: 2022-07-02T06:20:41.264Z
+responseTime: 160
+lastUpdated: 2022-07-02T06:43:12.776Z
 startTime: Sat Jul 02 2022 06:19:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
