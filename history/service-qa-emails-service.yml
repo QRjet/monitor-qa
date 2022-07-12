@@ -1,7 +1,7 @@
 url: https://api.qa.truetale.io/api/emails/health-check
 status: down
 code: 503
-responseTime: 76
-lastUpdated: 2022-07-11T23:05:37.626Z
+responseTime: 12
+lastUpdated: 2022-07-12T23:05:27.900Z
 startTime: Sat Jul 02 2022 06:19:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
