@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/consumer.qa.truetale.io",
     "slug": "web-qa-consumer-web-app",
     "status": "down",
-    "uptime": "96.42%",
-    "uptimeDay": "55.40%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "96.42%",
+    "uptime": "96.36%",
+    "uptimeDay": "54.57%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
     "time": 105,
     "timeDay": 139,
     "timeWeek": 107,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -121,11 +121,11 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-emails-service",
     "status": "up",
-    "uptime": "0.25%",
-    "uptimeDay": "3.14%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.25%",
-    "uptimeYear": "0.25%",
+    "uptime": "0.32%",
+    "uptimeDay": "3.97%",
+    "uptimeWeek": "0.57%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 44,
     "timeDay": 27,
     "timeWeek": 39,
@@ -153,18 +153,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-gateway-service",
     "status": "down",
-    "uptime": "96.42%",
-    "uptimeDay": "55.41%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.42%",
-    "uptimeYear": "96.42%",
+    "uptime": "96.36%",
+    "uptimeDay": "54.57%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
     "time": 48,
     "timeDay": 37,
     "timeWeek": 44,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -272,19 +272,19 @@
     "url": "https://api.qa.truetale.io/api/reseller/health-check",
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-reseller-service",
-    "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "55.42%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
-    "time": 133,
-    "timeDay": 98,
-    "timeWeek": 120,
-    "timeMonth": 133,
-    "timeYear": 133,
+    "status": "up",
+    "uptime": "96.36%",
+    "uptimeDay": "54.60%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
+    "time": 135,
+    "timeDay": 125,
+    "timeWeek": 127,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -292,19 +292,19 @@
     "url": "https://api.qa.truetale.io/api/shopify-adapter-event-listener/health-check",
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-shopify-listener-service",
-    "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "55.42%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
-    "time": 48,
-    "timeDay": 36,
-    "timeWeek": 43,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "status": "up",
+    "uptime": "96.36%",
+    "uptimeDay": "54.60%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
+    "time": 49,
+    "timeDay": 46,
+    "timeWeek": 46,
+    "timeMonth": 49,
+    "timeYear": 49,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -313,18 +313,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-shopify-sync",
     "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "55.43%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "uptime": "96.36%",
+    "uptimeDay": "54.59%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
     "time": 136,
     "timeDay": 89,
     "timeWeek": 129,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -333,18 +333,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-tags",
     "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "55.43%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "uptime": "96.36%",
+    "uptimeDay": "54.59%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
     "time": 133,
     "timeDay": 81,
     "timeWeek": 121,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -353,18 +353,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-templates",
     "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "55.43%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "uptime": "96.36%",
+    "uptimeDay": "54.59%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
     "time": 135,
     "timeDay": 85,
     "timeWeek": 116,
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -373,18 +373,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-widgets",
     "status": "down",
-    "uptime": "96.43%",
-    "uptimeDay": "55.43%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "96.43%",
-    "uptimeYear": "96.43%",
+    "uptime": "96.36%",
+    "uptimeDay": "54.59%",
+    "uptimeWeek": "93.51%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
     "time": 131,
     "timeDay": 90,
     "timeWeek": 118,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-07-14": 642
+      "2022-07-14": 654
     }
   },
   {
@@ -393,11 +393,11 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-admin",
     "status": "up",
-    "uptime": "97.00%",
+    "uptime": "97.01%",
     "uptimeDay": "63.18%",
     "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "97.00%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
     "time": 125,
     "timeDay": 80,
     "timeWeek": 120,
