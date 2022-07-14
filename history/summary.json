@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/consumer.qa.truetale.io",
     "slug": "web-qa-consumer-web-app",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.14%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.56%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 105,
     "timeDay": 139,
     "timeWeek": 107,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://api.qa.truetale.io/api/billing/health-check",
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-billing-service",
-    "status": "down",
-    "uptime": "96.98%",
-    "uptimeDay": "63.14%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "96.98%",
-    "time": 320,
-    "timeDay": 231,
-    "timeWeek": 304,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "status": "up",
+    "uptime": "96.93%",
+    "uptimeDay": "62.57%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "96.93%",
+    "time": 319,
+    "timeDay": 250,
+    "timeWeek": 302,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2022-07-14": 531,
+      "2022-07-14": 539,
       "2022-07-03": 9
     }
   },
@@ -100,18 +100,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-consumer-service",
     "status": "down",
-    "uptime": "96.98%",
-    "uptimeDay": "63.14%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "96.98%",
-    "uptimeYear": "96.98%",
+    "uptime": "96.93%",
+    "uptimeDay": "62.57%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "96.93%",
     "time": 128,
     "timeDay": 79,
     "timeWeek": 125,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2022-07-14": 531,
+      "2022-07-14": 539,
       "2022-07-03": 9
     }
   },
@@ -132,7 +132,7 @@
     "timeMonth": 46,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2022-07-14": 947,
+      "2022-07-14": 955,
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
@@ -153,18 +153,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-gateway-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.14%",
-    "uptimeWeek": "94.73%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.57%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 48,
     "timeDay": 37,
     "timeWeek": 44,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-media-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.57%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 135,
     "timeDay": 54,
     "timeWeek": 117,
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -193,18 +193,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-orders-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.57%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 143,
     "timeDay": 85,
     "timeWeek": 127,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -213,18 +213,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-org-accounts-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.58%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 138,
     "timeDay": 87,
     "timeWeek": 129,
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -233,18 +233,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-pim-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.15%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.58%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 130,
     "timeDay": 49,
     "timeWeek": 125,
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -253,18 +253,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-qr-codes-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.16%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.58%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 48,
     "timeDay": 37,
     "timeWeek": 43,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -273,18 +273,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-reseller-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.16%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.58%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 133,
     "timeDay": 98,
     "timeWeek": 120,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-07-14": 531
+      "2022-07-14": 539
     }
   },
   {
@@ -293,18 +293,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-shopify-listener-service",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.16%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.59%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 48,
     "timeDay": 36,
     "timeWeek": 43,
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-07-14": 530
+      "2022-07-14": 539
     }
   },
   {
@@ -313,18 +313,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-shopify-sync",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.16%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.59%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 136,
     "timeDay": 89,
     "timeWeek": 129,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
-      "2022-07-14": 530
+      "2022-07-14": 539
     }
   },
   {
@@ -333,18 +333,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-tags",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.17%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.59%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 133,
     "timeDay": 81,
     "timeWeek": 121,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2022-07-14": 530
+      "2022-07-14": 539
     }
   },
   {
@@ -353,18 +353,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-templates",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.17%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.59%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 135,
     "timeDay": 85,
     "timeWeek": 116,
     "timeMonth": 135,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2022-07-14": 530
+      "2022-07-14": 539
     }
   },
   {
@@ -373,18 +373,18 @@
     "icon": "https://favicons.githubusercontent.com/api.qa.truetale.io",
     "slug": "service-qa-widgets",
     "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "63.17%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "97.03%",
+    "uptime": "96.98%",
+    "uptimeDay": "62.60%",
+    "uptimeWeek": "94.66%",
+    "uptimeMonth": "96.98%",
+    "uptimeYear": "96.98%",
     "time": 131,
     "timeDay": 90,
     "timeWeek": 118,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-07-14": 530
+      "2022-07-14": 539
     }
   },
   {
