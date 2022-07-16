@@ -1,7 +1,7 @@
 url: https://api.qa.truetale.io/api/shopify-adapter-event-listener/health-check
 status: up
 code: 200
-responseTime: 79
-lastUpdated: 2022-07-16T08:51:13.134Z
+responseTime: 21
+lastUpdated: 2022-07-16T23:05:28.432Z
 startTime: Sat Jul 02 2022 06:19:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
