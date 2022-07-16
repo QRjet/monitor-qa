@@ -1,7 +1,7 @@
 url: https://api.qa.truetale.io/api/consumer/health-check
 status: up
 code: 200
-responseTime: 164
-lastUpdated: 2022-07-16T10:35:49.757Z
+responseTime: 109
+lastUpdated: 2022-07-16T23:05:25.408Z
 startTime: Sat Jul 02 2022 06:19:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
